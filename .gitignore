@@ -61,3 +61,31 @@ yarn-error.log
 
 # Temporary files created by Metro to check the health of the file watcher
 .metro-health-check*
+
+# testing
+/coverage
+
+# IDE
+.vscode
+
+#env
+.env
+.env.*
+ios/fastlane/.env.mristrataconnect
+ios/fastlane/.env.smata
+android/app/pc-api-8487784946748912405-499-fd0659c3705d.json
+android/fastlane/.env.mristrataconnect
+android/fastlane/.env.smata
+android/app/mristrataconnect/release/app-mristrataconnect-release.apk
+android/app/smata/release/app-smata-release.apk
+android/app/google-services.json
+android/app/smata-mobile-app-96b7b-cc6e348effc2.json
+android/app/mristrataconnect/release/app-mristrataconnect-release.aab
+android/app/smata/release/app-smata-release.aab
+android/app/smata/release/output-metadata.json
+android/fastlane/.env.smataocm
+
+#jest
+.jest
+.env.prod
+.env.staging
